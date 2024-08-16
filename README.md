@@ -12,5 +12,7 @@ Finally, `demo1.py` and `demo2.py` recall and match the video clips based on the
 
 ## Quick Start
 
+To run the demo, execute the following command in your terminal:
+
 ```bash
 python demo2.py
